@@ -6,3 +6,6 @@ It is based on the booth algorithm reported below.
 Starting from the algorithm there is the hardware implementation:
 
 ![implementation](img/hardware.png)
+
+The adders are implemented trought fast adder (Pentium IV adder).
+Top level entity is Booth_Multiplier.vhdl
